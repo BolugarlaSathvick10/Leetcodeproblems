@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
