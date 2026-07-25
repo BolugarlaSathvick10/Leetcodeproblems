@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
