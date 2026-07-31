@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/BolugarlaSathvick10/Leetcodeproblems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
